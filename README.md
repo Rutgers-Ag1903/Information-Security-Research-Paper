@@ -1,5 +1,5 @@
 # Information Security Research Paper
-
+### Authors: Aadi Gopi and Evan Lee
 The research paper is a compialtion of qualified sources to showcase "The Cloud Security Paradigm: An Analysis of Enhanced Security Posture and Cost Efficiency in AWS Compared to Traditional On-Premises Models".
 ___________________________________________________________________________________________________________________________________________________________________________________________
 ### Abstract:  
